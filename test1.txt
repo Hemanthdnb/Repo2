@@ -1,10 +1,1 @@
- Volume in drive C is Windows-SSD
- Volume Serial Number is B2D3-D3DB
-
- Directory of C:\Users\heman\OneDrive\Desktop\MyProject
-
-06-11-2022  16:13    <DIR>          .
-06-11-2022  16:09    <DIR>          ..
-06-11-2022  16:13                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  416,841,998,336 bytes free
+change 1
